@@ -1,0 +1,11 @@
+.text {
+  display: block;
+}
+
+.text--typography-title {
+  font-size: 40px;
+}
+
+.text--typography-lable {
+  font-size: 12px;
+}
